@@ -1,0 +1,34 @@
+body {
+background-color: rgb(227, 206, 246);
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQynlzCr5t3g9WOD3-tLECD4boyjt48ocfTGg&usqp=CAU);
+}
+
+.Student-Information {
+    text-align: center;
+}
+
+h1 {
+    color: blueviolet;
+    border: 5px solid blueviolet;
+    text-align: center;
+ }
+
+ .bordered {
+    border: 5px solid blueviolet;
+ }
+
+ img {
+    border-radius: 50px;
+    height: 350px;
+    width:350px;
+    border: 5px solid blueviolet
+
+ }
+
+ li {
+    margin:18px;
+    color:aliceblue;
+    font-style: italic;
+    border-radius: 10px;
+    border: 2px solid aliceblue
+ }
